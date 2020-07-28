@@ -1,8 +1,11 @@
 ### Focused on Cloud Native Solutions Architecture, Development and Operations
 
-15+ years in Telecom industry. Certified Kubernetes Administrator (CKA-1900-001601-0100). Network engineer, technical manager, operation team and unit lead, CTO. IP transit operators, Internet Providers and Mobile Network Operators: Beeline, Kyivstar, MTS , Velcom, Mobicom, Azerfon, Azercell, Astelit
+- 15+ years in Telecom industry.
+- Certified Kubernetes Administrator (CKA-1900-001601-0100). 
+- Network engineer, technical manager, operation team and unit lead, CTO. 
+- IP transit operators, Internet Providers and Mobile Network Operators: Beeline, Kyivstar, MTS , Velcom, Mobicom, Azerfon, Azercell, Astelit
 
-### 2 Startups: manager positions and system architect/software engineer role.
+### 2 Startups: manager positions and system architect/software engineer role
 
 ### 5 years as Co-Founder cloud b2b/b2c web application project: VoIP Roaming Solution:
 - Microservice Application Cloud migration (AWS/GCP)
@@ -10,11 +13,12 @@
 - Cloud Native SDLC and CICD implementation (Continuous Integration and Delivery processes)
 - SRE operation approach implementation for Production solutions at scale
 
-### Today: lead software engineer (devops):
+### Today lead software engineer (devops):
 - Cloud Native Media Project based on GCP for one of the biggest USA media vendor
 - Cloud IOT solution (GCP) for Smart City Project
 - Coach for GCP and Kubernetes
 
+### Skilset
 - Experienced in GCP, AWS, Azure, Bare Metal
 - Focused on Google Cloud Platform Solutions: GKE, Cloud Migration (Anthos), Cloud IOT, Cloud CI/CD
 - Coding/Scripting: read and write in Perl (automation, services), Python, Go, Shell
