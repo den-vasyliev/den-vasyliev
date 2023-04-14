@@ -1,3 +1,10 @@
+### Summary
+
+Senior SRE and DevOps practicing focused on Architecture, Development, and Operations DevOps/SRE/Kubernetes Coach
+
+YouTube channel: https://youtube.com/@DenysVasyliev
+
+Podcast: https://www.spreaker.com/show/devops503
 ### Focused on Cloud Native Solutions Architecture, Development and Operations, Devops Evangelist, K8S advocate
 - 15+ years in IT & Telecom industry
 - Certified Kubernetes Administrator (CKA-1900-001601-0100) 
