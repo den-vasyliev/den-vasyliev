@@ -37,9 +37,6 @@ Podcast: https://www.spreaker.com/show/devops503
 - Extended knowledge: Realtime Communication Solutions, VoIP
 - Manager skills: Team Leader and Coach
 
-### My podcast
-- https://www.spreaker.com/show/proof-my-concept
-
 ### Summary
 Good in communication, strong team leading, problem localization and solving, talent acquisition, planning and time management, project management and reporting, critical and open minded, self motivated and self management, ability to self education.
 
