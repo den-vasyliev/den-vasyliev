@@ -11,21 +11,21 @@ Current areas of focus:
 
 Experience and Expertise
 
- • Code Assessment 640 points https://codesignal.com
- • GCP/GKE, Go, Python, Gitops (Flux), IaC (Terraform/Tofu), AIOps
- • Kubernetes: Certified Kubernetes Administrator (CKA-1900-001601-0100)
- • Networking: Cisco/Juniper, BGP, MPLS
+- Code Assessment 640 points https://codesignal.com
+- GCP/GKE, Go, Python, Gitops (Flux), IaC (Terraform/Tofu), AIOps
+- Kubernetes: Certified Kubernetes Administrator (CKA-1900-001601-0100)
+- Networking: Cisco/Juniper, BGP, MPLS
 
 DevOps/SRE/Kubernetes Coach and Public Speaker
 
-• YouTube Channel https://youtube.com/@DenysVasyliev
-• Podcast https://www.spreaker.com/show/devops503
+- YouTube Channel https://youtube.com/@DenysVasyliev
+- Podcast https://www.spreaker.com/show/devops503
 
 Skills
 
- • Technical Leadership: Team Leader, Coach
- • Soft Skills: Effective communication, strong team leadership, problem-solving
- • Management: Talent acquisition, planning, time management, project management
- • Mindset: Critical thinker, open-minded, self-motivated, committed to self-development
+ - Technical Leadership: Team Leader, Coach
+ - Soft Skills: Effective communication, strong team leadership, problem-solving
+ - Management: Talent acquisition, planning, time management, project management
+ - Mindset: Critical thinker, open-minded, self-motivated, committed to self-development
 
 Feel free to reach out through any of the provided links for further information or collaboration opportunities.
